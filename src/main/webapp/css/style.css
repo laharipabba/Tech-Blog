@@ -1,0 +1,30 @@
+.primary-bg{
+	background:#ffcdd2!important;
+}
+.primary-bg a {
+  color: #212121 !important;
+}
+.primary-bg a:hover {
+  color: #ffffff !important; 
+}
+/*.navbar {
+  border-bottom: 2px solid black;  Light gray line 
+}
+*/
+.banner {
+  background-color: #ffcdd2; /* Matches navbar color */
+}
+.card {
+        border-radius: 15px;
+    }
+
+ .list-group-item.active {
+        background-color: #0d6efd !important; /* match navbar color */
+        border-color: #0d6efd !important;
+        color: white !important;
+    }
+
+.list-group-item:hover {
+        background-color: #e9ecef;
+    }
+

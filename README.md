@@ -1,4 +1,4 @@
-#Tech-Blog 🚀
+**Tech-Blog 🚀**
 
 This repository contains the source code for Tech-Blog, a blogging web application built using Java, Servlets, JSP, and MySQL.
 

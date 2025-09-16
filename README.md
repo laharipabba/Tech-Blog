@@ -1,4 +1,4 @@
-##Tech Blog
+## Tech Blog
 
 Tech Blog is a full-stack blogging web application built with Java (JSP/Servlets), JDBC, MySQL, Bootstrap, and AJAX. It allows users to register, log in, create posts, and engage with others through likes and dislikes. The platform is designed with a clean, responsive interface and supports category-wise browsing of posts.
 

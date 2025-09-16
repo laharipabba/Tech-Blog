@@ -22,3 +22,8 @@ Tech Blog is a full-stack blogging web application built with Java (JSP/Servlets
 3. Categories appear dynamically in both dropdown and sidebar.  
 4. Likes/Dislikes update instantly using AJAX.  
 5. Users can browse posts by category and interact with them.  
+
+## Project Struture
+<img width="494" height="783" alt="image" src="https://github.com/user-attachments/assets/34fbba4f-6542-4129-9246-8d884efec2f9" />
+<img width="455" height="531" alt="image" src="https://github.com/user-attachments/assets/28afeb48-d55a-45fd-81f1-b0d42e71c499" />
+
